@@ -2,7 +2,7 @@
   "name": "ngx-socket-io",
   "version": "4.1.0",
   "description": "Socket.IO module for Angular",
-  "main": "index.ts",
+  "main": "dist/index.d.ts",
   "scripts": {
     "build": "ng-packagr",
     "format": "prettier --write src",
